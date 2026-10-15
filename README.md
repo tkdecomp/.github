@@ -1,3 +1,0 @@
-# tkdecomp
-tekken
-decompilation
